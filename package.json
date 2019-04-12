@@ -1,0 +1,23 @@
+{
+  "name": "youtify-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipecaniza/youtify-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipecaniza/youtify-server/issues"
+  },
+  "homepage": "https://github.com/pipecaniza/youtify-server#readme"
+}
